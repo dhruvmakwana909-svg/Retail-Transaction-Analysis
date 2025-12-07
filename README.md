@@ -15,20 +15,35 @@ Saves clean data + all reports automatically
 
  Project Structure
 ├── online_retail_analysis.py       # Main Python script  
+
 ├── output/
+
 │   ├── cleaned_online_retail.csv   # Clean final dataset
+
 │   ├── numeric_summary.csv
+
 │   ├── categorical_unique_counts.csv
+
 │   ├── missing_report.csv
+
 │   ├── top_customers.csv
+
 │   ├── country_sales.csv
+
 │   ├── monthly_sales.csv
+
 │   └── figures/
+
 │       ├── top10_country_sales.png
+
 │       ├── monthly_sales_trend.png
+
 │       ├── quantity_distribution.png
+
 │       ├── correlation_heatmap.png
+
 │       └── top10_products.png
+
 └── README.md
 
  Key Features
